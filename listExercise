@@ -1,1 +1,42 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Working HTML</title>
+</head>
+<body>
+    <h1>List Assignment</h1>
+    <article>
+        <ul>
+            <h2>Unordered List of Favorite Foods:</h2>
+            <li>Adobo</li>
+            <li>Buko Salad</li>
+            <li>Fried Chicken</li>
+            <li>Piyanggang</li>
+        </ul>
+        <ol>
+            <h2>To do List:</h2>
+            <li>Follow the Course</li>
+            <li>Read Read and Read</li>
+            <li>Practice</li>
+            <li>Search the Web for Codes</li>
+        </ol>
+        <ul>
+            <h2>Unordered List of Places I want to go:</h2>
+            <li>Turkey</li>
+            <li>Italy</li>
+            <li>New Zealand</li>
+            <li>Thailand</li>
+        </ul>
+        <ol>
+            <h2>Top 5 Movie List:</h2>
+            <li>Lord of the Rings</li>
+            <li>Mission Impossible</li>
+            <li>The Patriot</li>
+            <li>Snowden</li>
+            <li>Eye in the Sky</li>
+        </ol>
+    </article>
+</body>
+</html>
